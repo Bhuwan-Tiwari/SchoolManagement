@@ -13,7 +13,7 @@
   "development": {
     "username": <YOUR_DB_LOGIN_NAME>,
     "password": <YOUR_DB_LOGIN_PASS>,
-    "database": "Flight_Search_DB",
+    "database": "School_Management_DB",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
