@@ -23,7 +23,7 @@
 
 ## Tables
 
-### City
+### School
 - name
 - address
 - latitude
